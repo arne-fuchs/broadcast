@@ -28,5 +28,5 @@ A maximum of 256 Connections are possible before it throws errors.
 If you want to keep me motivated to do more open source stuff you can donate me some IOTA's. Even very small amounts makes me happy:
 
 ```
-iota1qzfx5g9dyq9fr209s36vetx5nxvqwda73kx5gvxrm35hh9raw70msmq9rsk
+iota1qqvrqjfscx5ax7vnt8mmtmzj30af3xf7zfm8t7lnaxyrt73awgqckz02upv
 ```

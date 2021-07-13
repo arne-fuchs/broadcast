@@ -24,7 +24,7 @@ In the config.json you need to add "broadcast" to the "node" sections as followe
 Just connect to the plugin's port 5050 and you get the messages in real time as long as you are connected.
 A maximum of 256 Connections are possible before it throws errors.
 
-##Donations
+## Donations
 If you want to keep me motivated to do more open source stuff you can donate me some IOTA's. Even very small amounts makes me happy:
 
 ```

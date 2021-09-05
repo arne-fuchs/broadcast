@@ -21,6 +21,14 @@ In the config.json you need to add "broadcast" to the "node" sections as followe
     "enablePlugins": ["broadcast"]
 },
 ```
+You also want to configure the plugin in the same file. You need to paste this config between the other plugins:
+```
+"broadcast": {
+    "bindAddress": "127.0.0.1:5050"
+    },
+```
+Please notice, that you can only connect locally with this ip. If you want it to be reachable from the outside you need to use 0.0.0.0.
+
 If you get a compile error while buidling your goshimmer software, it is mostly because of missing libraries.
 If so, do the following:
 Go to

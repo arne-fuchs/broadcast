@@ -8,8 +8,10 @@ In goshimmer/plugins/research.go add the following line:
 ```
 broadcast.Plugin(),
 ```
-in the node.Plugins(...) list.
-
+in the node.Plugins(...) list and add this in the import statement:
+```
+"github.com/iotaledger/goshimmer/plugins/broadcast"
+```
 You may need to recompile the goshimmer software.
 
 In the config.json you need to add "broadcast" to the "node" sections as followed:

@@ -21,6 +21,13 @@ In the config.json you need to add "broadcast" to the "node" sections as followe
     "enablePlugins": ["broadcast"]
 },
 ```
+If you get a compile error while buidling your goshimmer software, it is mostly because of missing libraries.
+If so, do the following:
+Go to
+```
+~/go/src/github.com/iotaledger/goshimmer/plugins
+```
+and paste in the broadcast folder so go can access the missing files.
 
 ## Usage
 Just connect to the plugin's port 5050 and you get the messages in real time as long as you are connected.

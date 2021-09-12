@@ -47,3 +47,7 @@ If you want to keep me motivated to do more open source stuff you can donate me 
 ```
 iota1qqvrqjfscx5ax7vnt8mmtmzj30af3xf7zfm8t7lnaxyrt73awgqckz02upv
 ```
+<p align="center">
+  <img src="https://paesserver.de/img/qr.png?raw=true" width="250" title="logo">
+</p>
+

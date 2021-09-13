@@ -41,6 +41,10 @@ and paste in the broadcast folder so go can access the missing files.
 Just connect to the plugin's port 5050 and you get the messages in real time as long as you are connected.
 A maximum of 256 Connections are possible before it throws errors.
 
+The structure of the messages can be extracted here:
+https://github.com/iotaledger/goshimmer/blob/43a764bf8234e1729eb1068d53d638ac5e453872/packages/ledgerstate/transaction.go#L157
+https://github.com/iotaledger/goshimmer/blob/61f62443d85cd7bf62356b174af5c73bef94e67d/packages/tangle/message.go#L184
+
 ## Donations
 If you want to keep me motivated to do more open source stuff you can donate me some IOTA's. Even very small amounts makes me happy:
 
